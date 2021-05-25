@@ -19,6 +19,10 @@ article h6 {
   padding-bottom: 1rem;
 }
 
+article a {
+  text-decoration: underline;
+}
+
 /* Start purging... */
 @tailwind components;
 /* Stop purging. */

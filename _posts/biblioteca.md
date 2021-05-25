@@ -1,5 +1,5 @@
 ---
-title: "Biblioteca"
+title: "Biblioteca."
 excerpt: "Mi lista de libros leidos."
 coverImage: "/assets/blog/biblioteca/hero.jpg"
 date: "2020-07-18T05:35:07.322Z"
