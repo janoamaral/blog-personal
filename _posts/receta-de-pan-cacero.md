@@ -1,13 +1,13 @@
 ---
 title: "Receta de pan casero."
 excerpt: "La mejor receta de pan casero tipo viena."
-coverImage: "/assets/blog/neo-vim-autocmd/hero.jpg"
+coverImage: "/assets/blog/receta-de-pan-casero/hero.jpg"
 date: "2020-04-26T00:00:00.000Z"
 author:
   name: Alejandro Amaral
   picture: "/assets/blog/authors/aa.jpg"
 ogImage:
-  url: "/assets/blog/neo-vim-autocmd/hero.jpg"
+  url: "/assets/blog/receta-de-pan-casero/hero.jpg"
 ---
 
 Nuevo post y wow... simplemente wow. En el último post del 4 de marzo estaba reaprendiendo

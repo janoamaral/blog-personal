@@ -25,6 +25,7 @@ leyendo la iré actualizando.
 
 ### 2021
 
+- ★★★★★ **El Hombre en Busca de Sentido** (_Viktor Frankl_)
 - ★★★★★ **Mort** (_Terry Pratchett_)
 - ★★★★★ **Carrie** (_Stephen King_)
 - ★★★★☆ **Snow Crash** (_Neal Stephenson_)
