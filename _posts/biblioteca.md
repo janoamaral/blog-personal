@@ -25,11 +25,13 @@ leyendo la iré actualizando.
 
 ### 2021
 
+- ★★★★☆ **El Segador** (_Terry Pratchett_)
+- ★★★☆☆ **The Way of Men** (_Jack Donvan_)
 - ★★★★★ **El Hombre en Busca de Sentido** (_Viktor Frankl_)
 - ★★★★★ **Mort** (_Terry Pratchett_)
 - ★★★★★ **Carrie** (_Stephen King_)
 - ★★★★☆ **Snow Crash** (_Neal Stephenson_)
-- ★★★★★ **La tumba de las luciernagas** (_Akiyuki Nosaka_)
+- ★★★★★ **La Tumba de las Luciernagas** (_Akiyuki Nosaka_)
 - ★★★★★ **Este virus que nos vuelve locos** (_Bernard-Henri Lévy_)
 - ★☆☆☆☆ **¡Oh, no! ¡Voy a convertirme en zombi!** (_Jason Daniel Greenfield_)
 - ★★★★★ **We Can Remember It For You Wholesale** (_Philip K. Dick_)
