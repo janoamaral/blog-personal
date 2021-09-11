@@ -25,6 +25,7 @@ leyendo la iré actualizando.
 
 ### 2021
 
+- ★★★★★ **El Club de la Pelea** (_Chuck Palahniuk_)
 - ★★★★☆ **El Segador** (_Terry Pratchett_)
 - ★★★☆☆ **The Way of Men** (_Jack Donvan_)
 - ★★★★★ **El Hombre en Busca de Sentido** (_Viktor Frankl_)
