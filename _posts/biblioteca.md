@@ -25,6 +25,9 @@ leyendo la iré actualizando.
 
 ### 2021
 
+- ★★★★★ **El Silencio de los Inocentes** (_Thomas Harris_)
+- ★★★★★ **El abuelo que saltó por la ventana y se largó** (_Jonas Jonasson_)
+- ★★★★★ **11/22/63** (_Stephen King_)
 - ★★★★★ **El Club de la Pelea** (_Chuck Palahniuk_)
 - ★★★★☆ **El Segador** (_Terry Pratchett_)
 - ★★★☆☆ **The Way of Men** (_Jack Donvan_)
