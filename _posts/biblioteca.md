@@ -23,6 +23,11 @@ parece que tuve buen tino.
 Esta es la bibliografía y (humildisimo) puntaje de las obras. A medida que continúe
 leyendo la iré actualizando.
 
+### 2022
+
+- ★★★★★ **It** (_Stephen King_)
+
+
 ### 2021
 
 - ★★★★★ **El Silencio de los Inocentes** (_Thomas Harris_)
