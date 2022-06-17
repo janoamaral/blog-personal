@@ -25,6 +25,7 @@ leyendo la iré actualizando.
 
 ### 2022
 
+- ★★★☆☆ **Casino Royale** (_Ian Fleming_)
 - ★★★★★ **The Obstacle Is the Way** (_Ryan Holiday_)
 - ★★★★★ **Dormir al sol** (_A Bioy Casares_)
 - ★★★★★ **It** (_Stephen King_)
