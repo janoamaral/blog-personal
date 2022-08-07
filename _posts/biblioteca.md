@@ -25,6 +25,7 @@ leyendo la iré actualizando.
 
 ### 2022
 
+- ★★★★★ **The Subtle Art of Not Giving a F*ck** (_Mark Manson_)
 - ★★★☆☆ **Casino Royale** (_Ian Fleming_)
 - ★★★★★ **The Obstacle Is the Way** (_Ryan Holiday_)
 - ★★★★★ **Dormir al sol** (_A Bioy Casares_)
